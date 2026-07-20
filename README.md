@@ -1,3 +1,10 @@
+E-commerce API - Proyecto Final Back-End Java
+Descripción del proyecto
+
+Este proyecto corresponde a la entrega del Proyecto Final del curso Back-End en Java.
+
+Consiste en una API REST desarrollada con Spring Boot que permite gestionar un sistema básico de e-commerce. La aplicación incluye la administración de productos, categorías y carrito de compras, utilizando MySQL como base de datos y aplicando una arquitectura por capas (Controller, Service, Repository y Model).
+
 ## Instrucciones para ejecutar la aplicación
 
 ### Requisitos
