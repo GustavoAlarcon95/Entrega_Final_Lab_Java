@@ -10,8 +10,6 @@ Consiste en una API REST desarrollada con **Spring Boot** que permite gestionar 
 
 ## Instrucciones para ejecutar la aplicación
 
-### ## Instrucciones para ejecutar la aplicación
-
 ### Requisitos
 
 * Java 17 o superior.
